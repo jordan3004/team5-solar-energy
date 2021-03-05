@@ -3,8 +3,8 @@
 
 
 ### Project Description/Outline
-- [link***Full Power Point Presentation***](<https://docs.google.com/presentation/d/1jTHA0n535YKKVDVY_Yxo4RSxa302Wzga/edit#slide=id.p9>)
-- [link***Full Video on Zoom Presentation***] (<https://docs.google.com/presentation/d/1jTHA0n535YKKVDVY_Yxo4RSxa302Wzga/edit#slide=id.p9>)
+- [link: ***Full Power Point Presentation***](<https://docs.google.com/presentation/d/1jTHA0n535YKKVDVY_Yxo4RSxa302Wzga/edit#slide=id.p9>)
+- [link: ***Full video of Zoom Presentation***](<https://docs.google.com/presentation/d/1jTHA0n535YKKVDVY_Yxo4RSxa302Wzga/edit#slide=id.p9>)
 
 The scope of this project is to analyze the domestic solar energy  installation and usage (capacity  kW) in Mexico and compare it with parameters like radiation, growth or/and demand in order to define a correlation.
  Our framework consists in the analysis of the last 3 years (2017, 2018, 2019)  on the Mexican economic growth (ITAEE) or/and PIB VS  solar capacity (Kw).
@@ -12,7 +12,7 @@ Hypothesis
  We believe that the greater income each State generates (ITAEE) or/and PIB the  more capacity of solar energy will be installed (kW) . Moreover we will find that “Domestic solar panels are only installed by rich states because solar panels are considered to be expensive“. We are also certain that the market of domestic solar panels is growing in states isolated with more solar radiation.
 
 ### FIRST CLEANUP TO ONLY HAVE kW*YEAR :
-![analysis.png](analysis.png)
+![Analysis.png](Analysis.png)
 We drop several columns that we didn´t need.
 Moreover we did 2 groupby to sum the total of capacity kW and also ITAEE for 2017 2018 and 2019 .
 We had problems  with NaN values we had to convert 0. 
@@ -23,7 +23,9 @@ https://github.com/roberto-g-v/team5-solar-energy/blob/
 After having the correct info we needed to rename and  merge info a new dataframe to  compare it.
 We also did  separate df to analyze data independently
 At the end when everything was working we did the plots and heatmaps with clean  data.
- https://github.com/ClementsMX/team5-solar-energy.git 
+![plot_kw.png](plot_kw.png)
+VS.
+![plot_pib.png](plot_pib.png)
 
 ### CONCLUSIONS
 After mining , cleaning and organizing the data for the “Domestic solar energy  usage in Mexico” and the “PIB by each sate” . We conclude and confirm our hypothesis; 
