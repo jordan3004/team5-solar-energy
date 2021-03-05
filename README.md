@@ -1,10 +1,9 @@
 
 # DOMESTIC SOLAR ENERGY IN MÉXICO
 
-## Team 5:  Roberto, Clemente, Jordan, Marielle
 
 ### Project Description/Outline
-We want to analyze the domestic solar energy  installation and usage (capacity  kW) in Mexico and compare it with (parameters (radiation, growth or/and demand) and define a correlation.
+The socope of this project is to analyze the domestic solar energy  installation and usage (capacity  kW) in Mexico and compare it with parameters like radiation, growth or/and demand in order to define a correlation.
  Our framework consists in the analysis of the last 3 years (2017, 2018, 2019)  on the Mexican economic growth (ITAEE) or/and PIB VS  solar capacity (Kw).
 Hypothesis
  We believe that the greater income each State generates (ITAEE) or/and PIB the  more capacity of solar energy will be installed (kW) . Moreover we will find that “Domestic solar panels are only installed by rich states because solar panels are considered to be expensive“. We are also certain that the market of domestic solar panels is growing in states isolated with more solar radiation.
