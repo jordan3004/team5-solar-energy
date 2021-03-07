@@ -3,8 +3,8 @@
 
 
 ### Project Description/Outline
-- [link: ***Full Power Point Presentation***](<https://docs.google.com/presentation/d/1jTHA0n535YKKVDVY_Yxo4RSxa302Wzga/edit#slide=id.p9>)
-- [link: ***Full video of Zoom Presentation***](<https://share.icloud.com/photos/0V1UwchKCLkjWCk9Q2WL-29uw>)
+- [link: ***Power Point Presentation***](<https://docs.google.com/presentation/d/1jTHA0n535YKKVDVY_Yxo4RSxa302Wzga/edit#slide=id.p9>)
+- [link: ***Full video of Zoom Presentation***](<https://drive.google.com/drive/u/0/folders/1uHXnIDA2CX2viyn3cr0mOk8Bh01J4g-u>)
 
 The scope of this project is to analyze the domestic solar energy  installation and usage (capacity  kW) in Mexico and compare it with parameters like radiation, growth or/and demand in order to define a correlation.
  Our framework consists in the analysis of the last 3 years (2017, 2018, 2019)  on the Mexican economic growth (ITAEE) or/and PIB VS  solar capacity (Kw).
